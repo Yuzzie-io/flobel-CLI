@@ -1,8 +1,8 @@
-# Yuzie
+# Weslo
 
 **A real-time, Git-aware kanban board for your team, in your terminal. `npx yuzie`.**
 
-> Yuzie is Trello for developers who never leave the terminal — except it knows what
+> Weslo is Trello for developers who never leave the terminal — except it knows what
 > branch you're on.
 
 <p align="center">
@@ -21,7 +21,7 @@ else — a browser tab that costs a context switch every time. Existing terminal
 solve this by being single-player and Git-ignorant: a local TODO file with nicer rendering.
 They break the moment a second person joins.
 
-Yuzie takes the opposite position. It is **multiplayer first** and **Git-aware first**:
+Weslo takes the opposite position. It is **multiplayer first** and **Git-aware first**:
 
 - Every teammate connected to the same board sees changes instantly — card moves,
   assignments, comments, and who is currently working on what.
